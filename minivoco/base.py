@@ -1,3 +1,4 @@
+import RPi.GPIO
 
 class base(object):
   """
