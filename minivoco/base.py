@@ -1,4 +1,4 @@
-import serial #pySerial
+import RPi.GPIO
 
 class base(object):
   """
