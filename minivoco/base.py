@@ -1,3 +1,4 @@
+import serial #pySerial
 
 class base(object):
   """
