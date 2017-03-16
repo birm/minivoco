@@ -1,3 +1,3 @@
-#include "effect"
-#include "input"
-#include "output"
+#include "effect.hpp"
+#include "input.hpp"
+#include "output.hpp"
